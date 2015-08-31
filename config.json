@@ -1,0 +1,11 @@
+{
+  "public": "./dest",
+  "isProduction": false,
+  "javascript": {
+    "src": ["./src/**/*.js"],
+    "dst": "application.js"
+  },
+  "build": [
+    "javascript"
+  ]
+}
